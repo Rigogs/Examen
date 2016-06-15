@@ -1,0 +1,6 @@
+c:\users\rigoberto\documents\visual studio 2015\Projects\IParcialRGS\IParcialRGS\bin\Debug\IParcialRGS.exe.config
+c:\users\rigoberto\documents\visual studio 2015\Projects\IParcialRGS\IParcialRGS\bin\Debug\IParcialRGS.exe
+c:\users\rigoberto\documents\visual studio 2015\Projects\IParcialRGS\IParcialRGS\bin\Debug\IParcialRGS.pdb
+c:\users\rigoberto\documents\visual studio 2015\Projects\IParcialRGS\IParcialRGS\obj\Debug\IParcialRGS.csprojResolveAssemblyReference.cache
+c:\users\rigoberto\documents\visual studio 2015\Projects\IParcialRGS\IParcialRGS\obj\Debug\IParcialRGS.exe
+c:\users\rigoberto\documents\visual studio 2015\Projects\IParcialRGS\IParcialRGS\obj\Debug\IParcialRGS.pdb
